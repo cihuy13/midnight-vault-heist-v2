@@ -2,6 +2,7 @@
 
 [![make.fun bounty](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/competitions/best-heist-game-20261122-0559)
 [![rank](https://make.fun/badge/best-heist-game-20261122-0559/cihuy13/midnight-vault-heist-v2/rank.svg)](https://make.fun/competitions/best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/cihuy13/midnight-vault-heist-v2/reward.svg)](https://make.fun/competitions/best-heist-game-20261122-0559)
 
 A top-down museum heist game for the [make.fun "Make the best heist game" bounty](https://make.fun/competitions/best-heist-game-20261122-0559).
 
